@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-label="I&#x27;m a physicist from the Universidade Federal do Ceará (UFC): a bachelor&#x27;s and a master&#x27;s in Physics, and now a Ph.D. candidate in Condensed Matter Physics. My research is computational: C, C++ and Python simulations of wave packet dynamics in graphene, and retrieval-augmented language models for 2D materials. Since September 2025 I&#x27;ve been at FCPC, on the Kunumi Lab UFC project, customizing open-source large language models for process automation. I&#x27;m also finishing a technical degree in Electrotechnics at IFCE: microcontrollers, instrumentation, signal conditioning and industrial control. Doctorate: Condensed Matter Physics, UFC; Since 2025: FCPC · Kunumi Lab UFC; Technical: Electrotechnics, IFCE (ongoing); Location: Brazil; Languages: Portuguese · English; ORCID: 0009-0004-2541-7934.">
+<title>I&#x27;m a physicist from the Universidade Federal do Ceará (UFC): a bachelor&#x27;s and a master&#x27;s in Physics, and now a Ph.D. candidate in Condensed Matter Physics. My research is computational: C, C++ and Python simulations of wave packet dynamics in graphene, and retrieval-augmented language models for 2D materials. Since September 2025 I&#x27;ve been at FCPC, on the Kunumi Lab UFC project, customizing open-source large language models for process automation. I&#x27;m also finishing a technical degree in Electrotechnics at IFCE: microcontrollers, instrumentation, signal conditioning and industrial control. Doctorate: Condensed Matter Physics, UFC; Since 2025: FCPC · Kunumi Lab UFC; Technical: Electrotechnics, IFCE (ongoing); Location: Brazil; Languages: Portuguese · English; ORCID: 0009-0004-2541-7934.</title>
+<style>
+svg{--void:#0B0E24;--surface:#141935;--line:#2A3160;--amber:#F2B441;--violet:#8A7BF0;
+  --text:#E6E7F2;--muted:#9AA0C6;--soft:#D3D6E8;
+  --display:"Newsreader",Georgia,"Times New Roman",serif;
+  --body:"IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+:where(.fo),:where(.fo) *{box-sizing:border-box;margin:0;padding:0}
+.fo{width:100%;height:100%;font-family:var(--body);color:var(--text);-webkit-font-smoothing:antialiased}
+em{font-style:normal;color:var(--amber)}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes scan{0%{transform:translateX(-120%)}55%,100%{transform:translateX(330%)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.card{position:relative;height:100%;overflow:hidden;display:flex;flex-direction:column;
+  border:1px solid var(--line);border-radius:16px;padding:22px 26px 20px 30px;
+  background:radial-gradient(120% 140% at 100% 0%,rgba(138,123,240,.14),transparent 55%),
+             linear-gradient(180deg,#171C3D,var(--surface))}
+.card::before{content:"";position:absolute;left:0;top:0;width:34%;height:1px;
+  background:linear-gradient(90deg,transparent,var(--amber),transparent);
+  animation:scan 8s ease-in-out infinite}
+.card::after{content:"";position:absolute;left:0;top:24px;width:3px;height:36px;
+  border-radius:0 3px 3px 0;background:linear-gradient(var(--amber),var(--violet))}
+.tag{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--violet)}
+.title{font-family:var(--display);font-size:24px;line-height:1.25;margin-top:8px;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.title b{font:500 15px var(--mono);color:var(--amber);margin-left:8px}
+.desc{font-size:13.5px;line-height:1.6;color:var(--soft);margin-top:9px;
+  display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
+.meta{margin-top:auto;padding-top:12px;display:flex;align-items:center;gap:16px;
+  font-family:var(--mono);font-size:11.5px;letter-spacing:.03em;color:var(--muted)}
+.meta i{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:7px;vertical-align:-1px}
+
+.cols{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:44px;height:100%}
+.prose p{font-size:15px;line-height:1.65;color:var(--soft);margin-bottom:14px;animation:rise .8s ease-out both}
+.prose p:nth-child(2){animation-delay:.1s}.prose p:nth-child(3){animation-delay:.2s}.prose p:nth-child(4){animation-delay:.3s}
+.facts{list-style:none;align-self:center;border-top:1px solid var(--line)}
+.facts li{display:flex;justify-content:space-between;gap:18px;padding:12px 0;
+  border-bottom:1px solid var(--line);font:12.5px var(--mono)}
+.k{color:var(--muted);letter-spacing:.04em}
+.v{color:var(--text);text-align:right}
+.facts li:last-child .v{color:var(--amber)}
+</style>
+<foreignObject x="5" y="5" width="890" height="410"><div xmlns="http://www.w3.org/1999/xhtml" class="fo"><div class="card" style="padding:28px 30px 16px 34px"><div class="cols"><div class="prose"><p>I'm a physicist from the Universidade Federal do Ceará (UFC): a bachelor's and a master's in Physics, and now a <em>Ph.D. candidate in Condensed Matter Physics</em>.</p><p>My research is computational: C, C++ and Python simulations of <em>wave packet dynamics in graphene</em>, and retrieval-augmented language models for 2D materials.</p><p>Since September 2025 I've been at FCPC, on the <em>Kunumi Lab UFC</em> project, customizing open-source large language models for process automation.</p><p>I'm also finishing a technical degree in <em>Electrotechnics</em> at IFCE: microcontrollers, instrumentation, signal conditioning and industrial control.</p></div><ul class="facts"><li><span class="k">Doctorate</span><span class="v">Condensed Matter Physics, UFC</span></li><li><span class="k">Since 2025</span><span class="v">FCPC · Kunumi Lab UFC</span></li><li><span class="k">Technical</span><span class="v">Electrotechnics, IFCE (ongoing)</span></li><li><span class="k">Location</span><span class="v">Brazil</span></li><li><span class="k">Languages</span><span class="v">Portuguese · English</span></li><li><span class="k">ORCID</span><span class="v">0009-0004-2541-7934</span></li></ul></div></div></div></foreignObject>
+</svg>
